@@ -1,0 +1,1 @@
+print("Shared Expense Tracker")
